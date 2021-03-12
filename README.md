@@ -11,9 +11,6 @@
 <a href="https://github.com/selvaece25">
   <img align="left" alt="Selva's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCIR9x-ycMgUZbTeLnbYsqHQ">
-  <img align="left" alt="selva's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 
 <br/>
 <br/>
@@ -32,16 +29,7 @@
 - 📫 How to reach me: [Twitter - @selvaece25](https://twitter.com/selvaece25) , [Youtube - @selvaece25](https://www.youtube.com/channel/UCIR9x-ycMgUZbTeLnbYsqHQ)
 
 - ⚡ Fun fact **I spend almost 3 - 4 hours listening songs everyday.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/selvaece25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="selvaece25" height="30" width="40" /></a>
-<a href="https://twitter.com/selvaece25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="selvaece25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/selva-kumar-k/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/selva-kumar-k/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/selvaece25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="selvaece25" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dream code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="dream code" height="30" width="40" /></a>
-</p>
-
+- 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
