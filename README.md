@@ -6,7 +6,7 @@
   <img align="left" alt="selva's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/selvaece25/">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Selva's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/selvaece25">
   <img align="left" alt="Selva's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -16,9 +16,9 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Pando](https://pando.in)
+- 🔭 I’m currently working on [Bettermarks Gmbh](https://de.bettermarks.com/)
 
-- 🌱 I'm currently building a couple of webapps in React, Vue
+- 🌱 I'm currently building a couple of webapps in React, Vue, Python, NodeJS....
 
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCIR9x-ycMgUZbTeLnbYsqHQ).
 
