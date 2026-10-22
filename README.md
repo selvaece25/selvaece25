@@ -50,11 +50,11 @@ I now build software together with AI agents. What I work on:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,php,react,angularjs,vue,nuxtjs,nodejs,express,flask&perline=11" alt="Languages and frameworks" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,php,react,angularjs,vue,nuxtjs,nodejs,express,flask,fastapi&perline=12" alt="Languages and frameworks" />
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,aws,docker,nginx,githubactions,git,vscode&perline=11" alt="Databases and tools" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,aws,docker,kubernetes,nginx,githubactions,cypress,pnpm&perline=12" alt="Databases and tools" />
   </a>
 </p>
 
@@ -88,19 +88,6 @@ const selva = {
 ```
 
 </details>
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=selvaece25&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvaece25&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=selvaece25&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
 
 ---
 
